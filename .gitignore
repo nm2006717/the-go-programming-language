@@ -1,3 +1,4 @@
 .idea/.gitignore
 .idea/modules.xml
 .idea/the-go-programming-language.iml
+.idea/vcs.xml
